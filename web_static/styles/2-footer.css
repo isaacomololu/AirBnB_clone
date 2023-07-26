@@ -4,13 +4,7 @@ footer {
     width: 100%;
     position: fixed;
     bottom: 0;
-    text-align: center;
     display: flex;
-    align-items: center;
     justify-content: center;
-}
-
-footer span {
-    color: black;
-    font-weight: bold;
-}
+    align-items: center;
+   }

@@ -10,3 +10,8 @@ body {
     max-width: 1000px;
     margin: 30px auto;
 }
+
+ul {
+    padding-inline-start: 20px;
+    list-style: none;
+}
